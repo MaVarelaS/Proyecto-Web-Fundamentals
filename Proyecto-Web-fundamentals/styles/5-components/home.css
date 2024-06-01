@@ -1,0 +1,58 @@
+.home {
+  text-align: left;
+}
+.home__logo {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2rem;
+}
+
+.home__title {
+  font-size: var(--font-4xl);
+  font-weight: 800;
+  line-height: var(--leading-10);
+
+  margin-bottom: var(--spacing-12);
+}
+
+.home__subtitle {
+  color: var(--muted-foreground, #525252);
+  font-size: var(--font-2xl);
+  font-weight: 700;
+  line-height: var(--leading-8);
+
+  margin-bottom: var(--spacing-6);
+}
+
+.ejer {
+margin-top: var(--spacing-8);
+}
+
+.home__text {
+  margin-bottom: var(--spacing-12);
+
+  font-family: var(--heading);
+  font-size: var(--font-base);
+  font-weight: 400;
+  line-height: var(--leading-7);
+}
+
+.home__figcaption {
+  font-family: Inter;
+  font-weight: 400;
+  font-size: 14px;
+  text-align: left;
+  line-height: 20px;
+
+  margin-bottom: var(--spacing-8);
+
+}
+
+.home__name {
+  color: var(--muted-foreground, #525252);
+  font-size: var(--font-xl);
+  font-weight: 600;
+  line-height: var(--leading-8);
+
+  margin-bottom: 1rem;
+}

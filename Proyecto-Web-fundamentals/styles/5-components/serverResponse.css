@@ -1,0 +1,12 @@
+#serverResponse {
+    max-width: 640px;
+    padding: 8px 0px ;
+    height: 632px;
+    border-radius: var(--rounded-lg);
+    gap: 0px;
+    opacity: 0px;
+}
+  
+.hidden {
+    display: none;
+}

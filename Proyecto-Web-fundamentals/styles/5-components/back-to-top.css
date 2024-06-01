@@ -1,0 +1,49 @@
+/* 
+ <a class="back-to-top" href="#top">
+        <svg
+          width="20"
+          height="20"
+          viewBox="0 0 20 20"
+          fill="none"
+          xmlns="http://www.w3.org/2000/svg"
+        >
+          <g>
+            <path
+              d="M15 12.5L10 7.5L5 12.5"
+              stroke="#171717"
+              stroke-width="2"
+              stroke-linecap="round"
+              stroke-linejoin="round"
+            />
+          </g>
+        </svg>
+        top
+      </a>
+*/
+
+/*.back-to-top {
+    display: flex;
+    flex-direction: column;
+    width: var(--spacing-12);
+    height: var(--spacing-12);
+    justify-content: center;
+    align-items: center;
+    border-radius: var(--rounded-3xl);
+    background: var(--muted);
+  
+    color: var(--foreground);
+    font-size: var(--font-xs);
+    line-height: var(--leading-4);
+    text-decoration: none;
+  
+    margin-left: auto;
+    position: sticky;
+    bottom: var(--spacing-4);
+    transition: background-color ease-out 1500ms, transform 500ms;
+  }
+  
+  .back-to-top:hover {
+    transform: translateY(-20px);
+    background-color: var(--primary-hover);
+  }
+  */
